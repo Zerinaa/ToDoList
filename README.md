@@ -1,5 +1,5 @@
 # ToDoList
-"To-do" lista u formi tabele.
+"To-do" lista u formi tabele, sa osnovnim operacijama.
 
 # Implementacija
 "To-do" listu sam implementirala koristeći HTML/CSS/JS tehnologije i po vašoj preporuci sam koristila jQuery i Bootstrap.
