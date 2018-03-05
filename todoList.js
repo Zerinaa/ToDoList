@@ -1,4 +1,3 @@
-
 $("form").submit(function(e) {
   var red = "";
   red += "<tr>";
