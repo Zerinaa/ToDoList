@@ -1,4 +1,4 @@
-# ToDoList
+# Minimalist to-do List
 "To-do" lista u formi tabele, sa osnovnim operacijama.
 
 # Implementacija
