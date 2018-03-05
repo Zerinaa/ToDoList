@@ -1,5 +1,5 @@
 # Minimalist to-do List
-"To-do" lista u formi tabele, sa osnovnim operacijama.
+"To-do" lista u formi tabele, sa osnovnim funkcijama.
 
 # Implementacija
 "To-do" listu sam implementirala koristeći HTML/CSS/JS tehnologije i po vašoj preporuci sam koristila jQuery i Bootstrap.
